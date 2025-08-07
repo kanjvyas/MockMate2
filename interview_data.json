@@ -1,0 +1,43 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Tell me about yourself",
+      "hint": "Focus on your education, relevant experience, and career goals"
+    },
+    {
+      "id": 2,
+      "text": "What are your greatest strengths?",
+      "hint": "Mention skills relevant to the job with examples"
+    },
+    {
+      "id": 3,
+      "text": "What is your biggest weakness?",
+      "hint": "Be honest but show how you're working to improve it"
+    },
+    {
+      "id": 4,
+      "text": "Why do you want this position?",
+      "hint": "Connect your skills and interests to the company's mission"
+    },
+    {
+      "id": 5,
+      "text": "Where do you see yourself in 5 years?",
+      "hint": "Show ambition but align with the company's growth"
+    }
+  ],
+  "feedback": [
+    "Good start! Try to be more specific with examples.",
+    "Nice answer! Consider connecting this to the job requirements.",
+    "Good self-awareness. Now suggest how you're improving in this area.",
+    "Great enthusiasm! Add what specifically excites you about this role.",
+    "Good vision. Relate this back to how the company can help you grow."
+  ],
+  "sampleAnswers": [
+    "I'm a [Your Major] student at [University] with experience in [Relevant Field]. I've developed strong [Skill 1] and [Skill 2] through my internship at [Company]. I'm excited about [Industry Trend] and want to apply my skills to [Job Function].",
+    "My key strengths are [Strength 1], [Strength 2], and [Strength 3]. For example, at my last internship, I used [Strength 1] to [Specific Achievement] which resulted in [Quantifiable Outcome].",
+    "One area I'm improving is [Weakness]. I've been working on this by [Action Taken], and I've seen improvement in [Positive Change]. I plan to continue developing this skill through [Future Action].",
+    "I want this position because it aligns perfectly with my experience in [Field] and my passion for [Industry Aspect]. I'm particularly impressed by [Company Project/Value] and believe I could contribute to [Specific Area].",
+    "In five years, I see myself having mastered [Key Skill] and contributing significantly to [Company Goal]. I hope to take on more responsibility in [Area] while continuing to develop my expertise in [Specialty]."
+  ]
+}
